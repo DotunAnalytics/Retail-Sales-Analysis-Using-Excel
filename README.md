@@ -17,7 +17,6 @@ This project involves analyzing a **Retail Sales Dataset** using **Microsoft Exc
 ## 📊 Visualizations
 Here are some key insights displayed using **Pivot Charts** and **Slicers:**
 
-![Sales Chart](https://via.placeholder.com/600x300.png?text=Sales+Visualization)
 
 *Example visualization of total sales trend.*
 
@@ -25,6 +24,8 @@ Here are some key insights displayed using **Pivot Charts** and **Slicers:**
 
 
 *Sample Pivot Table used in the analysis.*
+
+![Screenshot 2025-02-17 143401](https://github.com/user-attachments/assets/2de199dd-4a15-4acb-b5c0-2461718007f0)
 
 ## 🛠️ Tools Used
 - **Microsoft Excel** 🟢
