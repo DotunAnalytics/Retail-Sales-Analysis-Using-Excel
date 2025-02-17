@@ -25,7 +25,8 @@ Here are some key insights displayed using **Pivot Charts** and **Slicers:**
 
 *Sample Pivot Table used in the analysis.*
 
-![Screenshot 2025-02-17 143401](https://github.com/user-attachments/assets/2de199dd-4a15-4acb-b5c0-2461718007f0)
+![Screenshot 2025-02-17 143710](https://github.com/user-attachments/assets/43d71e88-aefb-453d-8323-aecf2f285b8d)
+
 
 ## 🛠️ Tools Used
 - **Microsoft Excel** 🟢
